@@ -77,5 +77,3 @@ $ echo ~
 /home/vagrant
 ```
 
-## Blog Post
-Check it out [here](https://medium.com/simple-shell-project/what-happens-when-you-type-ls-l-in-the-shell-e6430f1e6671)
